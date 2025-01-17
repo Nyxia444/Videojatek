@@ -1,0 +1,39 @@
+body {
+    background-image: url(Downloads/Videojatekok/kepek/dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(255, 255, 255)
+}
+
+image {
+    width: 400px;
+    position: center;
+    border-radius: 15%;
+    padding: 10px;
+    border-color: rgb(50, 48, 48);
+}
+
+a {
+    margin: auto;
+    text-decoration: none;
+    padding: 10px;
+    border: 10px solid gray;
+    border-bottom: 25%;
+    background-color: rgb(50, 48, 48);
+}
+
+h2 {
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(50, 48, 48);
+    border-radius: 5%;
+}
+
+p{
+    font-size: 15px;
+    font-family: Rockwell;
+    text-align: justify;
+}
