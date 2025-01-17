@@ -4,13 +4,13 @@ body {
     font-family: Arial, sans-serif;
     width: 1000px;
     margin: auto;
-    background-color: rgb(255, 255, 255)
+    background-color: rgb(255, 255, 255);
 }
 
 image {
     width: 400px;
     position: center;
-    border-radius: 15%;
+    border-radius: 15px;
     padding: 10px;
     border-color: rgb(50, 48, 48);
 }
@@ -19,10 +19,20 @@ a {
     margin: auto;
     text-decoration: none;
     padding: 10px;
-    border: 10px solid gray;
+    border: 10px;
+    border-color: lightslategray;
     border-bottom: 25%;
     background-color: rgb(50, 48, 48);
 }
+
+h1 {
+    font-size: 50px;
+    padding: 20px;
+    letter-spacing: 30px;
+    text-transform: uppercase;
+    
+}
+
 
 h2 {
     padding: 20px;
@@ -35,4 +45,5 @@ p{
     font-size: 15px;
     font-family: Rockwell;
     text-align: justify;
+    text-color: white;
 }
